@@ -1,4 +1,4 @@
-[малинка](https://www.youtube.com/watch?v=MtZTFMwxgNo){:target="_blank"}
+<h1><a href="https://www.youtube.com/watch?v=MtZTFMwxgNo" target="_blank">малинка</a></h1>
 Generate malicious MS Windows shortcuts
 
 ## Supported platforms
