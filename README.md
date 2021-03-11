@@ -1,4 +1,4 @@
-# malinka [малинка](https://www.youtube.com/watch?v=MtZTFMwxgNo)
+[малинка](https://www.youtube.com/watch?v=MtZTFMwxgNo){:target="_blank"}
 Generate malicious MS Windows shortcuts
 
 ## Supported platforms
