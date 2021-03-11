@@ -1,4 +1,4 @@
-# malinka
+# malinka (малинка)
 Generate malicious MS Windows shortcuts
 
 ## Supported platforms
