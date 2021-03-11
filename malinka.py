@@ -24,6 +24,7 @@ try:
 except Exception as exc:
   print("Please install the winshell module with pip")
 
+# Credit: https://github.com/darkoperator/powershell_scripts/blob/master/ps_encoder.py
 def powershell_encode(data):
 	# blank command will store our fixed unicode variable
 	blank_command = ""
